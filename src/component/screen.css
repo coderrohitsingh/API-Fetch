@@ -1,0 +1,14 @@
+.page {
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.page-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
